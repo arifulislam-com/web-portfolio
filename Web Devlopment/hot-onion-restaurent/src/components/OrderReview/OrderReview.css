@@ -1,0 +1,19 @@
+.order-review{
+    display: flex;
+    width: 100%;
+    padding: 50px;
+}
+.address{
+    width: 1000px;
+    height: 800px;
+}
+.price{
+    width: 300px;
+}
+.price b{
+    float: right;
+    margin-left: 100px;
+}
+.items{
+    float: right;
+}

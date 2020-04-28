@@ -1,0 +1,23 @@
+.banner img{
+    width: 100%;
+}
+.logo img{
+    width: 10%;
+    padding: 25px 150px;
+}
+.banner nav {
+    line-height: 40ps;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 25px;
+}
+.banner nav a {
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40px;
+    color: black;
+}
+.banner nav a:hover {
+    color: red;
+    text-decoration-line: underline;
+}

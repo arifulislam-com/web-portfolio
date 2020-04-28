@@ -1,0 +1,16 @@
+.food{
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    margin: 20px;
+}
+.food img {
+    width: 50%;
+}
+.food:hover{
+    box-shadow: 5px 5px 10px gray;
+}
+.food-name{
+    color: blue;
+    font-weight: 400;
+}
